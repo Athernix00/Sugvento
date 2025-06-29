@@ -61,7 +61,7 @@
 
 ## 📷 Preview
 
-![Preview](https://i.imgur.com/1L9ZQOj.png) <!-- Replace this with your own embed preview -->
+![Preview](https://i.imgur.com/9dd6NUm.png) <!-- Replace this with your own embed preview -->
 
 ---
 
