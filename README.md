@@ -71,14 +71,13 @@
    ```  
    git clone https://github.com/Athernix00/sugvento.git  
    cd sugvento  
-  ```
+   ```
 
 2. **Install dependencies**
 
    ```
    npm install  
    ```
-```
 
 3. **Configure environment**
 
