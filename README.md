@@ -81,8 +81,9 @@
 
 3. **Configure environment**
 
-   * Fill in:
+   * rename `.env.example` to `.env`
 
+   * Fill in:
      * `DISCORD_TOKEN=your_token`
 
 
