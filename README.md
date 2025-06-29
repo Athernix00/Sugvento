@@ -84,7 +84,7 @@
    * rename `.env.example` to `.env`
 
    * Fill in:
-     * `DISCORD_TOKEN=your_token`
+     * `DISCORD_TOKEN=your_bot_token_here`
 
 
 4. **Run the bot**
